@@ -1,0 +1,1134 @@
+---
+
+01a-0000:
+  org: Telecompass
+  tags:
+    - template
+
+01a-0002:
+  org: Telecompass
+  based-on: 01a-0000
+  tags:
+    - template
+
+01a-0004:
+  org: Telecompass
+  based-on: 01a-0000
+  tags:
+    - image
+    - landscape
+    - dog
+    - gun
+    - template
+
+01a-0008:
+  org: Telecompass
+  based-on: 01a-0000
+  tags:
+    - image
+    - portrait
+    - Goethe
+    - man
+    - template
+
+01a-0011:
+  org: Telecompass
+  based-on: 01a-0000
+  tags:
+    - image
+    - spinning wheel
+    - template
+
+01a-0013:
+  org: Telecompass
+  based-on: 01a-0000
+  tags:
+    - image
+    - suitcase
+    - template
+    - hat
+
+01a-0017:
+  org: Telecompass
+  based-on: 01a-0000
+  tags:
+    - image
+    - landscape
+    - desert
+    - camels
+    - man
+    - template
+
+01a-0019:
+  org: Telecompass
+  based-on: 01-0000
+  tags:
+    - image
+    - woman
+    - model
+    - lights
+
+02a-0000:
+  org: GG-Design
+  tags:
+    - menu
+  links:
+    "1": 02a-0010
+    "2": 02a-0016
+    "#": 02a-0023
+
+02-0007:
+  org: GG-Design
+  tags:
+    - reply
+    - contact form
+
+02a-0010:
+  org: GG-Design
+  tags:
+    - menu
+  links:
+    "0": 02a-0000
+    "9": 02a-0007
+
+02a-0014:
+  org: GG-Design
+  tags:
+    - menu
+    - examples
+  links:
+    "0": 02a-0000
+    "1": Coorporate Identity
+    "2": Visualisierung
+    "3": Illustrationen
+    "4": Movie
+    "9": 02a-0007
+
+02a-0016:
+  org: GG-Design
+  tags:
+    - printwerbung
+  links:
+    "0": 02a-0000
+    "9": 02a-0007
+
+02a-0019:
+  org: GG-Design
+  tags:
+    - reply
+    - contact form
+  same-as: 02-0007
+
+02a-0023:
+  org: GG-Design
+  tags:
+    - imprint
+  links:
+    "0": 02a-0000
+
+02a-0025:
+  org: GG-Design
+  tags:
+    - references
+  links:
+    "0": 02a-0000
+    "9": 02a-0007
+
+02b-0071:
+  org: GG-Design
+  tags:
+    - demo
+    - image
+    - wizzard
+    - animated
+
+03a-0000:
+  org: Allianz Versicherungen
+  pageno: 4400210a
+  tags:
+    - insurance
+    - template
+
+03a-0004:
+  org: Allianz Versicherungen
+  pageno: 4400210a
+  based-on: 03a-0000
+  tags:
+    - insurance
+    - template
+    - gibberish
+    - image
+    - money
+    - rose
+
+03a-0010:
+  org: Allianz Versicherungen
+  pageno: 4400210a
+  based-on: 03a-0000
+  tags:
+    - insurance
+    - template
+    - image
+    - man
+    - rose
+    - landscape
+    - hat
+    - gardener
+    - grass
+
+03a-0014:
+  org: Allianz Versicherungen
+  pageno: 4400210a
+  based-on: 03a-0000
+  tags:
+    - insurance
+    - template
+    - image
+    - piggy bang
+    - swine
+    - bow
+    - grass
+    - gibberish
+
+03a-0017:
+  org: Allianz Versicherungen
+  pageno: 4400210a
+  based-on: 03a-0000
+  tags:
+    - insurance
+    - template
+    - image
+    - pictogram
+    - wheelchair
+
+03a-0021:
+  org: Allianz Versicherungen
+  pageno: 4400210a
+  tags:
+    - insurance
+    - template
+    - gibberish
+    - image
+    - money
+    - rose
+  based-on: 03a-0004
+
+03a-0023:
+  org: Allianz Versicherungen
+  pageno: 4400210a
+  based-on: 03a-0000
+  tags:
+    - insurance
+    - template
+    - image
+    - landscape
+    - man
+    - woman
+    - sun
+    - hills
+
+03a-0027:
+  org: Allianz Versicherungen
+  pageno: 4400210a
+  based-on: 03a-0021
+  tags:
+    - insurance
+    - template
+    - gibberish
+    - image
+    - money
+    - rose
+    - pot
+
+03a-0032:
+  org: Allianz Versicherungen
+  pageno: 4400210a
+  based-on: 03a-0017
+  tags:
+    - insurance
+    - template
+    - image
+    - pictogram
+    - wheelchair
+
+03a-0036:
+  org: Allianz Versicherungen
+  pageno: 4400210a
+  based-on: 03a-0014
+  tags:
+    - insurance
+    - template
+    - image
+    - piggy bang
+    - swine
+    - bow
+    - grass
+    - gibberish
+
+
+03a-0039:
+  org: Allianz Versicherungen
+  pageno: 4400210a
+  based-on: 03a-0023
+  tags:
+    - insurance
+    - template
+    - image
+    - landscape
+    - man
+    - woman
+    - hills
+
+03a-0043:
+  org: Allianz Versicherungen
+  pageno: 4400210a
+  based-on: 03a-0000
+  tags:
+    - insurance
+    - template
+    - image
+    - seat
+    - money
+
+03a-0048:
+  org: Allianz Versicherungen
+  pageno: 4400210a
+  based-on: 03a-0032
+  tags:
+    - insurance
+    - template
+    - image
+    - pictogram
+    - wheelchair
+    - animated
+
+03a-0050:
+  org: Allianz Versicherungen
+  pageno: 4400210a
+  based-on: 03a-0043
+  tags:
+    - insurance
+    - template
+    - image
+    - seat
+    - money
+
+03b-0008:
+  org: Allianz Versicherungen
+  pageno: 4400210a
+  based-on: 03a-0000
+  tags:
+    - insurance
+    - template
+    - image
+    - diagram
+
+03b-0010:
+  org: Allianz Versicherungen
+  pageno: 4400210a
+  based-on: 03a-0000
+  tags:
+    - insurance
+    - template
+    - image
+    - money
+
+03b-0015:
+  org: Allianz Versicherungen
+  pageno: 4400210a
+  based-on: 03a-0000
+  tags:
+    - insurance
+    - template
+    - image
+    - money
+    - steps
+    - upwards
+
+03b-0020:
+  org: Allianz Versicherungen
+  pageno: 4400210a
+  based-on: 03b-0015
+  tags:
+    - insurance
+    - template
+    - image
+    - money
+    - steps
+    - upwards
+
+
+03b-0022:
+  org: Allianz Versicherungen
+  pageno: 4400210a
+  based-on: 03a-0000
+  tags:
+    - insurance
+    - template
+    - image
+    - money
+    - shelter
+    - man
+    - woman
+
+03b-0025:
+  org: Allianz Versicherungen
+  pageno: 4400210a
+  based-on: 03a-0000
+  tags:
+    - insurance
+    - template
+    - image
+    - snail
+
+03b-00028:
+  org: Allianz Versicherungen
+  pageno: 4400210a
+  based-on: 03b-0008
+  tags:
+    - insurance
+    - template
+    - image
+    - diagram
+
+03b-0031:
+  org: Allianz Versicherungen
+  pageno: 4400210a
+  based-on: 03b-0022
+  tags:
+    - insurance
+    - template
+    - image
+    - money
+    - shelter
+    - man
+    - woman
+
+03b-0035:
+  org: Allianz Versicherungen
+  pageno: 4400210a
+  based-on: 03b-0025
+  tags:
+    - insurance
+    - template
+    - image
+    - snail
+
+04a-0000:
+  org: "blend-a-dent"
+  pageno: 5695672a
+  based-on: 04a-00005
+  tags:
+    - image
+    - mouth shower
+    - text
+
+04a-0005:
+  org: "blend-a-dent"
+  pageno: 5695672a
+  tags:
+    - template
+
+04a-0008:
+  org: "blend-a-dent"
+  pageno: 5695672a
+  based-on: 04a-00005
+  tags:
+    - image
+    - template
+    - teeth
+    - mouth
+
+04a-0014:
+  org: "blend-a-dent"
+  based-on: 04a-00005
+  tags:
+    - image
+    - template
+    - teeth
+    - filling
+
+05a-0000:
+  org: Medien Service Handel
+  tags:
+    - image
+    - logo
+    - template
+    - EHV
+
+05a-0021:
+  org: Medien Service Handel
+  tage:
+    - template
+
+05a-0024:
+  org: Medien Service Handel
+  based-on: 05a-0021
+  tags:
+    - gibberish
+    - EHV
+
+05a-0026:
+  org: Medien Service Handel
+  based-on: 05a-0021
+  tags:
+    - EHV
+
+05a-0030:
+  org: Medien Service Handel
+  tags:
+    - Wettbewerb und Werbung
+    - EHV
+
+05a-0032:
+  org: Medien Service Handel
+  based-on: 05a-0030
+
+05a-0036:
+  pageno: 2543647584a
+  org: Medien Service Handel
+  tags:
+    - menu
+
+05a-0039:
+  date: 1984-10-23
+  org: Medien Service Handel
+  tags:
+    - menu
+    - EHV
+
+05a-0041:
+  based-on: 05a-0039
+  tags:
+    - menu
+    - possibly broken
+    - EHV
+
+05a-0044:
+  based-on: 05a-0032
+  tags:
+    - gibberish
+    - EHV
+
+05a-0047:
+  based-on: 05a-0030
+  date: 1983-10-23
+  tags:
+    - menu
+    - EHV
+
+05a-0050:
+  based-on: 05a-0030
+  tags:
+    - news
+    - gibberish
+    - EHV
+
+05a-0054:
+  org: Medien Service Handel
+  date: 1984-10-18 15:06:72
+  pageno: 374624756a
+  tags:
+    - menu
+
+05a-0060:
+  org: Hauptgemeinschaft des Deutschen Einzelhandels
+  date: 1982
+  tags:
+    - table
+    - statistics
+    - trainees
+    - 1982
+    - 1983
+
+
+05a-0060:
+  org: Hauptgemeinschaft des Deutschen Einzelhandels
+  date: 1982
+  tags:
+    - table
+    - statistics
+    - gross profits
+    - 1982
+
+05b-0001:
+  org: Deutsche Bundespost
+  tags:
+    - system page
+    - create page
+
+05b-0002:
+  org: Deutsche Bundespost
+  tags:
+    - system page
+    - create page
+    - set links
+
+05b-0004:
+  org: Deutsche Bundespost
+  tags:
+    - system page
+    - create page
+
+06a-0001:
+  org: LBS
+  pageno: 569000072a
+  tags:
+    - bauspaprämie
+    - text
+    - man
+    - jump
+    - number
+
+06a-0003:
+  org: LBS
+  pageno: 569000073a
+  tags:
+    - immobilien-markt
+    - image
+    - sign
+    - landscape
+
+06a-0005:
+  org: LBS
+  pageno: 569000056a
+  tags:
+    - bauspar-darlehen
+    - image
+    - money
+    - building-site
+
+07a-0016:
+  org: Allianz Versicherungen
+  based-on: 03a-0032
+  tags:
+    - image
+    - pictogram
+    - person
+    - wheelchair
+
+07a-0035:
+  org: Allianz Versicherungen
+  based-on: 46a-0010
+  tags:
+    - image
+    - books
+    - paper
+    - pen
+
+07a-0037:
+  org: Allianz Versicherungen
+  based-on: 46b-0028
+
+07a-0041:
+  org: Allianz Versicherungen
+  based-on: 03a-0036
+  tags:
+    - image
+    - piggy bank
+    - swine
+    - bow
+
+07a-0045:
+  org: Allianz Versicherungen
+  based-on: 03a-0050
+  tags:
+    - image
+    - money
+    - seat
+
+07a-0049:
+  org: Allianz Versicherungen
+  based-on: 03b-0008
+  tags:
+    - image
+    - diagram
+
+07a-0054:
+  org: Allianz Versicherungen
+  based-on: 03b-0010
+  tags:
+    - image
+    - money
+
+07a-0058:
+  org: Allianz Versicherungen
+  based-on: 08a-0073
+  tags:
+    - text
+    - depotkonto
+
+07a-0059:
+  same-as: a07-0058
+
+07a-0063:
+  based-on: 08a-0073
+  after: 07a-0058
+  tags:
+    - text
+    - depotkonto
+
+07a-0066:
+  based-on: 08a-0073
+  after: 07-0063
+  tags:
+    - text
+    - depotkonto
+
+07a-0068:
+  based-on: 08a-0073
+  after: 07a-0066
+  tags:
+    - text
+    - depotkonto
+
+07a-0071:
+  based-on: 08a-0073
+  after: 07a-0068
+  tags:
+    - text
+    - depotkonto
+
+07a-0075:
+  based-on: 08a-0073
+  tags:
+    - text
+    - berlin-darlehen
+
+07a-0079:
+  after: 07a-0075
+  based-on: 08a-0073
+  tags:
+    - text
+    - berlin-darlehen
+
+07a-0084:
+  based-on: 03a-0032
+  tags:
+    - image
+    - text
+    - wheelchair
+    - lebensversicherung
+
+07a-0089:
+  based-on: 46b-0016
+  tags:
+    - image
+    - text
+    - money
+    - paragraph symbol
+    - lebensversicherung
+
+07a-0092:
+  based-on: 08a-0073
+  tags:
+    - image
+    - text
+    - berlin-darlehen
+    - bear
+
+07a-0097:
+  org: Allianz Versicherungen
+  based-on: 46b-0008
+  tags:
+    - image
+    - text
+    - money
+    - lebensversicherung
+
+07a-0102:
+  org: Allianz Versicherungen
+  based-on: 03a-0027
+  tags:
+    - image
+    - text
+    - money
+    - lebensversicherung
+
+08a-0000:
+  org: Allianz Versicherungen
+  after: 48a-0002
+  based-on: 03a-0000
+  based-on: 08a-0073
+  tags:
+    - image
+    - text
+    - haftpflicht
+
+08a-0073:
+  org: Allianz Versicherungen
+  desc: Basic template for other pages, no page number
+  based-on: 03a-0000
+  based-on: 08a-0073
+  tags:
+    - image
+    - text
+    - template
+
+08a-0077:
+  org: Allianz Versicherungen
+  title: "Was leistet die Privathaftpflichtversicherung?"
+  based-on: 08a-0073
+  tags:
+    - text
+    - haftpflichtversicherung
+
+08a-0080:
+  org: Allianz Versicherungen
+  title: "Ergänzende Versicherungen"
+  after: 08a-0077
+  based-on: 08a-0073
+  tags:
+    - text
+    - haftpflichtversicherung
+
+08a-0083:
+  org: Allianz Versicherungen
+  title: "Einbruchdiebstahl/Raub"
+  based-on: 08a-0073
+  tags:
+    - text
+    - einbruchdiebstahl
+    - raub
+    - hausratversicherung
+
+08a-0085:
+  org: Allianz Versicherungen
+  title: "Einbruchdiebstahl/Raub"
+  after: 08a-0083
+  based-on: 08a-0073
+  tags:
+    - text
+    - einbruchdiebstahl
+    - raub
+    - hausratversicherung
+
+08a-0089:
+  org: Allianz Versicherungen
+  title: "Glasbruch"
+  based-on: 08a-0073
+  tags:
+    - text
+    - glasbruch
+    - hausratversicherung
+
+08a-0092:
+  org: Allianz Versicherungen
+  title: "Versicherung für Sonderverglasung"
+  based-on: 08a-0073
+  after: 08a-0089
+  tags:
+    - text
+    - glasbruch
+    - hausratversicherung
+    - sonderverglasung
+
+
+10a-0028:
+  desc: "Advertisement for computer assisted training"
+  org: A+L Infocenter GmbH
+  date: 1985-12-02
+  tages:
+    - mail
+    - advertisement
+    - text
+    - graphics
+    - cityscape
+
+10a-0030:
+  same-as: 10a-0028
+
+10a-0039:
+  desc: "advertisement for foreign language courses"
+  org: A+L Infocenter GmbH
+  date: 1986-02-20
+  tags:
+    - mail
+    - advertisement
+    - text
+    - cityscape
+
+10a-0041:
+  desc: "advertisement for Lotus 1-2-3 courses"
+  org: A+L Infocenter GmbH
+  date: 1986-02-23
+  tags:
+    - mail
+    - advertisement
+    - text
+    - cityscape
+
+10a-0044:
+  org: A+L Infocenter GmbH
+  desc: "advertisement for convention hotel"
+  date: 1986-02-25
+  tags:
+    - mail
+    - advertisement
+    - text
+    - cityscape
+
+10a-0046:
+  org: A+L Infocenter GmbH
+  desc: "advertisement for 'The other training'"
+  date: 1986-02-27
+  tags:
+    - mail
+    - advertisement
+    - text
+    - cityscape
+
+11a-0021:
+  org: GG-Design
+  desc: "Strange test"
+
+11a-0023:
+  org: GG-Design
+  tags:
+    - menu
+  links:
+    "1": Tarife für Kontaktstunden
+    "2": Tarife für Geburtsanzeigen
+    "3": Tarife für Kreativität
+
+11a-0027:
+  org: GG-Design
+  based-on: 11a-0023
+  tags:
+    - menu
+
+11b-0000:
+  org: GG-Design
+  tags:
+    - menu
+  links:
+    "1": 11b-0014
+    "2": Schulung
+    "3": Beratung
+
+11b-0002:
+  org: GG-Design
+  based-on: 11b-0000
+  tags:
+    - menu
+
+11b-0006:
+  org: GG-Design
+
+11b-0009:
+  org: GG-Design
+  based-on: 11b-0006
+
+11b-0011:
+  org: GG-Design
+  based-on: 11b-0009
+
+11b-0014:
+  org: GG-Design
+  based-on: 11b-0011
+
+11b-0018:
+  org: GG-Design
+  desc: "place holder page"
+  based-on: 11a-000
+
+12a-0000:
+  org: "teleprint"
+  desc: "Caro-Kann"
+  pageno: 55144403341b
+  tags:
+    - image
+    - chess
+
+12a-0002:
+  org: "teleprint"
+  desc: "Caro-Kann"
+  pageno: 55144303341c
+  after: 12a-0000
+  tags:
+    - image
+    - chess
+
+12-0004:
+  org: "teleprint"
+  desc: "Caro-Kann"
+  pageno: 551443003341e
+  after: 12a-0002
+  tags:
+    - image
+    - chess
+
+12-0005:
+  org: "teleprint"
+  desc: "Caro-Kann"
+  pageno: 55144303341f
+  after: 12-004
+  tags:
+    - image
+    - chess
+
+12a-0006:
+  org: "teleprint"
+  desc: "Caro-Kann"
+  pageno: 55144303341g
+  after: 12-0005
+  tags:
+    - image
+    - chess
+
+12a-0007:
+  org: "teleprint"
+  desc: "Caro-Kann"
+  pageno: 55144303341h
+  after: 12a-0006
+  tags:
+    - image
+    - chess
+
+12a-0008: 
+  org: "teleprint"
+  desc: "Caro-Kann"
+  pageno: 55144303341i
+  after: 12a-0007
+  tags:
+    - image
+    - chess
+
+12a-0013: 
+  org: "teleprint"
+  desc: "Kurzpartien"
+  pageno: 55144303344b
+  tags:
+    - image
+    - chess
+
+12a-0014: 
+  org: "teleprint"
+  desc: "Kurzpartien"
+  after: 12a-0013
+  pageno: 55144303344c
+  tags:
+    - image
+    - chess
+
+12a-0015: 
+  org: "teleprint"
+  desc: "Kurzpartien"
+  after: 12a-0014
+  pageno: 55144303344d
+  tags:
+    - image
+    - chess
+
+12b-0006: 
+  desc: "Shakespeare Zitat von Dirk Gabriel"
+  date: 1986-04-26
+  tags:
+    - text
+    - unformated
+
+12b-0008:
+  desc: "Chamfort Zitat von Dirk Gabriel"
+  date: 1986-04-26
+  after: 12b-0006
+  tags:
+    - text
+    - unformated
+
+13a-0125:
+  desc: "Graphic experiment"
+  tags:
+    - graphics
+    - experiment
+
+13a-0127:
+  desc: "Graphic experiment"
+  after: 13a-0125
+  tags:
+    - graphics
+    - experiment
+
+13a-0129:
+  desc: "Graphic experiment"
+  after: 13a-0127
+  tags:
+    - graphics
+    - experiment
+
+13a-0131:
+  desc: "Graphic experiment"
+  after: 13a-0129
+  tags:
+    - graphics
+    - experiment
+
+13a-0133:
+  desc: "Graphic experiment"
+  after: 13a-0113
+  tags:
+    - graphics
+    - experiment
+
+13a-0135:
+  desc: "Graphic experiment"
+  after: 13a-0133
+  tags:
+    - graphics
+    - experiment
+
+13a-0139:
+  desc: "Graphic experiment"
+  after: 13a-0135
+  tags:
+    - graphics
+    - experiment
+
+13a-0141:
+  desc: "Graphic experiment"
+  after: 13a-0139
+  tags:
+    - graphics
+    - experiment
+
+13a-0143:
+  desc: "Graphic experiment"
+  after: 13a-0141
+  tags:
+    - graphics
+    - experiment
+
+13a-0145:
+  desc: "Graphic experiment"
+  after: 13a-0143
+  tags:
+    - graphics
+    - experiment
+
+15a-0000:
+  org: Allianz Versicherungen
+  desc: "Rund um Ihre Sicherheit Lebensversicherung"
+  based-on: 03a-0000
+  tags:
+    - template
+    - graphics
+    - fire extinguisher
+
+15a-0003:
+  org: Allianz Versicherungen
+  desc: "Rund um Ihre Sicherheit Lebensversicherung"
+  based-on: 03a-0000
+  tags:
+    - template
+    - graphics
+    - book
+    - law
+
+15a-0006:
+  org: Allianz Versicherungen
+  desc: "Rund um Ihre Sicherheit Lebensversicherung"
+  based-on: 03a-0000
+  tags:
+    - template
+    - graphics
+    - justizia
+

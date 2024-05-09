@@ -1,0 +1,13 @@
+                                       
+                                       
+                                       
+                                       
+                                       
+ESSAI ist ein weiteres Software-Werkzeu
+zur Erstellung von Expertensystemen in 
+verschiedensten Einsatzgebieten. Stark 
+betont wird bei ESSAI die Vereinfachung
+der Mensch-Maschine-Kommunikation.     
+                                       
+Das System wendet eine flexible Darstel
+lung von Regeln an, unterst

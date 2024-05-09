@@ -1,0 +1,23 @@
+teleprint                        0,00 D
+                                       
+Caro-Kann                     Kurzparti
+                                       
+                                       
+ a  b  c  d  e  f  g  h                
+                         8             
+                                       
+                         7 1.e2 - e4   
+                             c7 - c6   
+                         6 2.Sb1- c3   
+                             d7 - d5   
+                         5 3.Sg1- f3   
+                             d5 x e4   
+                         4 4.Sc3x e4   
+                                       
+                         3             
+                                       
+                         2             
+                                       
+                         1             
+                                       
+                       n

@@ -1,0 +1,21 @@
+                                       
+                                       
+                                       
+                                       
+Faustball          10                  
+                                       
+Fussball           11   Segeln        1
+                                       
+Gymnastik u.            Ski           1
+Spiele             12                  
+                        Tennis        2
+Leichathletik      13                  
+                        Tischtennis   2
+Gymnastik, Lauf-                       
+und Krafttraining  14   Sonderver-     
+                        anstaltungen  2
+Rock'n' Roll       15                  
+                        Generelle      
+Schach             16   Hinweise      2
+                                       
+Schie
