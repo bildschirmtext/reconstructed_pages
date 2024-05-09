@@ -1106,7 +1106,7 @@
 
 15a-0000:
   org: Allianz Versicherungen
-  desc: "Rund um Ihre Sicherheit Lebensversicherung"
+  title: "Rund um Ihre Sicherheit Lebensversicherung"
   based-on: 03a-0000
   tags:
     - template
@@ -1115,7 +1115,7 @@
 
 15a-0003:
   org: Allianz Versicherungen
-  desc: "Rund um Ihre Sicherheit Lebensversicherung"
+  title: "Rund um Ihre Sicherheit Lebensversicherung"
   based-on: 03a-0000
   tags:
     - template
@@ -1125,10 +1125,100 @@
 
 15a-0006:
   org: Allianz Versicherungen
-  desc: "Rund um Ihre Sicherheit Lebensversicherung"
+  title: "Rund um Ihre Sicherheit Lebensversicherung"
   based-on: 03a-0000
   tags:
     - template
     - graphics
     - justizia
 
+15a-0009:
+  org: Allianz Versicherungen
+  title: "Rund um Ihre Sicherheit Lebensversicherung"
+  based-on: 03a-0000
+  tags:
+    - template
+    - graphics
+    - car crash
+    - palm tree
+    - tree
+    - car
+    - desert
+
+15a-0012:
+  org: Allianz Versicherungen
+  title: "Rund um Ihre Sicherheit Lebensversicherung"
+  based-on: 03a-0000
+  tags:
+    - template
+    - graphics
+    - car crash
+    - big letter
+
+15a-0014:
+  org: Allianz Versicherungen
+  title: "Rund um Ihre Sicherheit Lebensversicherung"
+  desc: "2 Cars of different nationality crashing. Question mark in the middle"
+  based-on: 03a-0000
+  tags:
+    - template
+    - graphics
+    - car crash
+
+15a-0020:
+  org: Allianz Versicherungen
+  title: "Rund um Ihre Sicherheit Lebensversicherung"
+  desc: "Car stranded somewhere"
+  based-on: 03a-0000
+  tags:
+    - template
+    - graphics
+    - car
+    - tree
+    - landscape
+    - road
+
+15a-0023:
+  org: Allianz Versicherungen
+  title: "Rund um Ihre Sicherheit Lebensversicherung"
+  desc: "blinking arrow towards phone"
+  based-on: 03a-0000
+  tags:
+    - template
+    - graphics
+    - phone
+
+15a-0024:
+  org: Allianz Versicherungen
+  sameas: 15a-0023
+
+15a-0026:
+  org: Allianz Versicherungen
+  title: "Rund um Ihre Sicherheit Lebensversicherung"
+  desc: "template with paragraph § sign, not the one in a07-0089"
+  based-on: 03a-0000
+  tags:
+    - template
+    - graphics
+    - paragraph sign
+
+15a-0029:
+  org: Allianz Versicherungen
+  title: "Rund um Ihre Sicherheit Lebensversicherung"
+  desc: "template with hand and money"
+  based-on: 03a-0000
+  tags:
+    - template
+    - graphics
+    - hand
+    - money
+
+15a-0032:
+  org: Allianz Versicherungen
+  title: "Rund um Ihre Sicherheit Lebensversicherung"
+  desc: "template with question mark"
+  based-on: 03a-0000
+  tags:
+    - template
+    - graphics
+    - question mark
